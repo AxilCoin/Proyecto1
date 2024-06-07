@@ -1,0 +1,23 @@
+
+body {
+  background-color: lightblue;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+text-align: left;
+  color: red;
+}
+h3{
+  text-align:center;
+  color:white;
+}
+
+p{
+  text-align:left;
+}
+
+
